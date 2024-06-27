@@ -1,0 +1,60 @@
+
+   .top_header{
+    height: 40px;
+    width: auto;
+    background-color: blue;
+   }
+   .top_header ul li{
+    color: rgb(68, 231, 27);
+    font-size: 20px;
+    list-style: none;
+    float: left;
+    padding-left: 20px;
+    margin-top: 5px;
+
+   }
+   .top_header ul li a{
+    text-decoration: none;
+    color: rgb(231, 27, 214);
+
+   }
+   .top_header ul li a:hover{
+    font-size: 10px;
+    font-style: italic;
+    color: rgb(68, 231, 27);
+   }
+   .header_logo{
+    height:80px;
+    width: auto;
+    background-color: blueviolet;
+   }
+   .header_logo img{
+    height: 80px;
+    width: auto;
+    image-resolution: 0%;
+    
+   }
+   .banner{
+    height: 400px;
+    width: auto;
+    background-color: rgb(95, 226, 43);
+   }
+   .banner img{
+    height: 400px;
+    width: auto;
+   }
+   .main_section{
+    height: 1200px;
+    width: auto;
+    background-color: rgb(88, 82, 86);
+   }
+   .footer{
+    height: 100px;
+    width: auto;
+    background-color: rgb(27, 176, 221);
+   }
+   .footer p:hover{
+    font-size: 25px;
+    font-style: italic;
+    color: rgb(68, 231, 27);
+   }
